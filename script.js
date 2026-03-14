@@ -118,6 +118,12 @@ document.getElementById("pauseBtn").click();
 
 }
 
+else if(command.includes("reset")){
+
+document.getElementById("resetBtn").click();
+
+}
+
 else if(command.includes("25")){
 
 setTime(1500);
@@ -135,5 +141,17 @@ else if(command.includes("15")){
 setTime(900);
 
 }
+
+}
+
+document.getElementById("resetBtn").onclick = function(){
+
+clearInterval(timer);
+
+running = false;
+
+time = totalTime;
+
+updateDisplay();
 
 }
