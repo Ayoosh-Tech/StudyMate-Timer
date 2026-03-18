@@ -65,7 +65,9 @@ Here are some features that could make this app even more powerful:
 
 ## 📸 Screenshots
 
-> Add screenshots here to showcase your UI — especially the animated timer circle.
+## 📸 Screenshot
+
+![Study Mate App](./screenshot.jpg)
 
 ---
 
