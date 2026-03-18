@@ -67,7 +67,7 @@ Here are some features that could make this app even more powerful:
 
 ## 📸 Screenshot
 
-![Study Mate App](./screenshot.jpg)
+![Study Mate App](./Screenshot.jpg)
 
 ---
 
