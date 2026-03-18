@@ -85,6 +85,6 @@ Thanks to **DevCareer** and **Raenest** for organizing the hackathon and support
 
 If you'd like to connect or collaborate, find me here:
 
-- **GitHub:** https://github.com/your‑username  
-- **Twitter/X:** https://twitter.com/your‑username  
-- **LinkedIn:** https://linkedin.com/in/your‑profile
+- **GitHub:** https://github.com/Ayoosh-Tech
+- **Twitter/X:** https://twitter.com/Ayoosh_Tech
+- **LinkedIn:** https://www.linkedin.com/in/ayoosh-tech
